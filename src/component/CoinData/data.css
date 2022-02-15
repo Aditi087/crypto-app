@@ -1,0 +1,25 @@
+#card{
+    background-color: rgba(2, 8, 39, 0.207);
+    margin: 10px;
+    padding: 20px;
+    /* height: 100px; */
+}
+#card:hover{
+    margin: 2px;
+    
+}
+#home_img{
+    height: 80px;
+    
+}
+
+#data_page{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    color: rgb(196, 194, 194);
+}

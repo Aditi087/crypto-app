@@ -1,0 +1,37 @@
+#det_img{
+    height: 150px;
+}
+.det_card{
+    
+    padding: 20px;
+    
+    width: fit-content;
+    margin-left: 5px;
+    background-color: transparent;
+    border: none;
+    
+    
+}
+
+#det_card_div{
+    padding: 20px;
+    display: flex;
+    text-align: left;
+    padding-top: 90px;
+    padding-bottom: 90px;
+
+
+}
+#det_body{
+   
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLA-Bs8WTpDBBPmvisWQSeXBg4Pkzp8--amJShqrJjh_E60dHH30cyvWHi6HuH670Xyw&usqp=CAU);
+    /* background-attachment: fixed; */
+    /* background-repeat: no-repeat; */
+    background-size:cover;
+    margin-top: 180px;
+    margin-left: 260px;
+    margin-right: 260px;
+    border-radius: 12px;
+    
+    
+}

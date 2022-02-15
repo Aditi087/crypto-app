@@ -1,0 +1,15 @@
+#search{
+    padding-top: 100px;
+    padding-left: 30%;
+    margin-left: 90px;
+    
+}
+#flex{
+    display: flex;
+}
+#search_textfield{
+    width: 80%;
+    color: whitesmoke!important;
+    
+    
+}
